@@ -27,7 +27,7 @@ class Profile extends Component {
                     <li><a className="subheader">Subheader</a></li>
                     <li><a className="waves-effect" href="#!">Third Link With Waves</a></li>
             </ul>
-            <a href="#" data-activates="slide-out" className="brand-logo"><i className="material-icons">cloud</i>Logo</a>
+            <a href="#" data-activates="slide-out" className="brand-logo"><i className="material-icons">portrait</i></a>
             </div>);
 
         return (
